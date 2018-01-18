@@ -1,0 +1,9 @@
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\bin\Debug\20171005Win_CumleAyir.exe.config
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\bin\Debug\20171005Win_CumleAyir.exe
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\bin\Debug\20171005Win_CumleAyir.pdb
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\obj\Debug\20171005Win_CumleAyir.csprojResolveAssemblyReference.cache
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\obj\Debug\_20171005Win_CumleAyir.Form1.resources
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\obj\Debug\_20171005Win_CumleAyir.Properties.Resources.resources
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\obj\Debug\20171005Win_CumleAyir.csproj.GenerateResource.Cache
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\obj\Debug\20171005Win_CumleAyir.exe
+E:\MPD_20172018\20171005Win_CumleAyir\20171005Win_CumleAyir\obj\Debug\20171005Win_CumleAyir.pdb
